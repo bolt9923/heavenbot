@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>†hê Hêllẞø† 🇮🇳</b>
+  <b>†hê ᙓᖇᖇටᖇẞø† 🇮🇳</b>
 </h1>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078df46ef8b32f89aef40.jpg" alt="The-HellBot">
+  <img src="https://graph.org/file/ba1a6ba8852706ceb4b8e.jpg" alt="The-HellBot">
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ᙓᖇᖇටᖇɮօt ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -27,8 +27,8 @@
 ![Python](https://img.shields.io/badge/Python-v3.10-white?style=social&logo=python)
 ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?&style=social&logo=hyper)
 
-[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/hellbot_chat)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/its_hellbot)
+[![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/themortalclan)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/errorbots_network)
 
 [![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://hellbot.tech)
 
@@ -177,6 +177,6 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 ## Credits
 
 - 💖 All the Dependencies
-- 💖 [Team HellBot](https://github.com/The-HellBot)
+- 💖 [ᙓᖇᖇටᖇ 404](https://github.com/KinGEvilHacker)
 
 ------
